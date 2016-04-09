@@ -1,11 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleDrive\Test\DriveTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AppController.cs">
     <Files>
-      <File FileName="Assets\GoogleDrive\WebViewObject.cs" Line="1" Column="1" />
-      <File FileName="Assets\GSFU\Scripts\UnityDataConnector.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\UIController.cs" Line="1" Column="1" />
-      <File FileName="Assets\GoogleDrive\Test\DriveTest.cs" Line="20" Column="3" />
+      <File FileName="Assets\Scripts\AppController.cs" Line="19" Column="37" />
+      <File FileName="Assets\Scripts\MainUIController.cs" Line="61" Column="3" />
+      <File FileName="Assets\Scripts\Util\AppConstants.cs" Line="4" Column="48" />
+      <File FileName="Assets\Scripts\RegisterController.cs" Line="26" Column="1" />
+      <File FileName="Assets\Scripts\UI\PopUPController.cs" Line="11" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
